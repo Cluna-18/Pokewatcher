@@ -1,3 +1,5 @@
+import "../css/CardCard.css"
+
 function CardCard ({name,set,price}){
     return(
         <div className = "CardInfo">
